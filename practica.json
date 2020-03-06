@@ -34095,7 +34095,7 @@
       "properties": {
         "name": "El Goloso",
         "cartodb_id": 51,
-	"avgprice": 1,
+	"avgprice": [],
         "avgbedrooms": [],
         "properties": []
       },
@@ -55814,7 +55814,7 @@
       "properties": {
         "name": "Horcajo",
         "cartodb_id": 87,
-	"avgprice": 0,
+	"avgprice": [],
         "avgbedrooms": [],
         "properties": []
       },
@@ -59960,7 +59960,7 @@
       "properties": {
         "name": "Atalaya",
         "cartodb_id": 99,
-	"avgprice": 0,
+	"avgprice": [],
         "avgbedrooms": [],
         "properties": []
       },
