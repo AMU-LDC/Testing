@@ -14894,7 +14894,7 @@
       "properties": {
         "name": "El Pardo",
         "cartodb_id": 44,
-	"avgprice": 1,
+	"avgprice": [],
         "avgbedrooms": [],
         "properties": []
       },
@@ -41286,7 +41286,7 @@
       "properties": {
         "name": "Valdemarín",
         "cartodb_id": 56,
-	"avgprice": 1,
+	"avgprice": [],
         "avgbedrooms": [],
         "properties": []
       },
@@ -55814,7 +55814,7 @@
       "properties": {
         "name": "Horcajo",
         "cartodb_id": 87,
-	"avgprice": 1,
+	"avgprice": 0,
         "avgbedrooms": [],
         "properties": []
       },
@@ -59960,7 +59960,7 @@
       "properties": {
         "name": "Atalaya",
         "cartodb_id": 99,
-	"avgprice": 1,
+	"avgprice": 0,
         "avgbedrooms": [],
         "properties": []
       },
