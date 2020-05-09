@@ -14894,7 +14894,7 @@
       "properties": {
         "name": "El Pardo",
         "cartodb_id": 44,
-		"avgprice": 0,
+	"avgprice": 0,
         "avgbedrooms": [],
         "properties": []
       },
